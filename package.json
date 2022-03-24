@@ -1,0 +1,15 @@
+{
+  "name": "@meiuca/dsc-design-tokens",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mayara Castro - Meiuca",
+  "license": "MIT",
+  "scripts": {
+    "build": "node src/index.js",
+    "build:dev": "rm -rf dist && node src/index.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.0"
+  }
+}
