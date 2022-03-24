@@ -1,8 +1,9 @@
 {
-  "name": "@meiuca/dsc-design-tokens-mayara",
+  "name": "@meiuca/design-tokens-mayara",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
+  "bin": "index.js",
   "author": "Mayara Castro - Meiuca",
   "license": "MIT",
   "scripts": {
@@ -11,6 +12,10 @@
   },
   "devDependencies": {
     "style-dictionary": "^3.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaracastro98/design-tokens.git"
   },
   "publishConfig": {
     "access": "public"
