@@ -1,5 +1,5 @@
 {
-  "name": "@meiuca/design-tokens-mayara",
+  "name": "@mayaracastro98/meiuca-design-tokens-mayara",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mayaracastro98/design-tokens.git"
+    "url": "https://github.com/mayaracastro98/design-tokens.git"
   },
   "publishConfig": {
     "access": "public"
